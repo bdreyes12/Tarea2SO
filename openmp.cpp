@@ -56,7 +56,7 @@ int main() {
 
     // Mostrar la imagen original y la imagen en escala de grises
     imshow("Imagen Original", imagen);
-    imshow("Imagen en Blanco y Negro", imagenGrises);
+    imshow("Imagen en Blanco y Negro ", imagenGrises);
 
     waitKey(0);
 
