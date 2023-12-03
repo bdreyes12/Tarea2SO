@@ -1,6 +1,6 @@
 CC = "g++"
 PROJECT = Tarea2SO
-SRC = test1.cpp
+SRC = secuencial.cpp
 
 LIBS = `pkg-config opencv4 --cflags --libs`
 
