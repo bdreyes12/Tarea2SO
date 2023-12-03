@@ -10,21 +10,27 @@ Escribimos el comando "make" como primer paso, ya que asi preparamos automaticam
 
 # En el primer caso, tenemos al codigo secuencial
 Este codigo se ejecuta desde la terminal, una vez ubicados en la carpeta del repositorio, la forma de ejecucion es escribir los siguientes comandos por terminal (utilizando la imagen espacio.jpg como ejemplo):
-./Secuencial 
+
+./Secuencial (luego presionamos Enter)
+
 espacio.jpg espacioSinColor.jpg 
 
 -> En este caso hay que ejecutar el codigo y por parametro pasar el nombre de la imagen que se modificara y el nombre de la imagen que se obtendra
 
 # En este segundo caso, tenemos al codigo paralelo con OpenCV
 Este codigo se ejecuta desde la terminal, una vez ubicados en la carpeta del repositorio, la forma de ejecucion es escribir los siguientes comandos por terminal (utilizando la imagen espacio.jpg como ejemplo):
-./Threads
+
+./Threads (luego presionamos Enter)
+
 espacio.jpg espacioSinColor.jpg 4
 
 -> En este caso hay que ejecutar el codigo y por parametro pasar el nombre de la imagen que se modificara, el nombre de la imagen que se obtendra y ademas el numero de hilos que se usaran para ejecutar el codigo
 
 # En este tercer caso, tenemos al codigo paralelo con OpenMP
 Este codigo se ejecuta desde la terminal, una vez ubicados en la carpeta del repositorio, la forma de ejecucion es escribir los siguientes comandos por terminal (utilizando la imagen espacio.jpg como ejemplo):
-./OpenMP
+
+./OpenMP (luego presionamos Enter)
+
 espacio.jpg espacioSinColor.jpg 4
 
 -> En este caso hay que ejecutar el codigo y por parametro pasar el nombre de la imagen que se modificara, el nombre de la imagen que se obtendra y ademas el numero de hilos que se usaran para ejecutar el codigo
