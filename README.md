@@ -1,5 +1,4 @@
 # Tarea2SO
-Tarea 2 SO Brandon Reyes - Esteban Rivas
 
 # Tarea 2 SO Brandon Reyes - Esteban Rivas
 # En este repositorio se encuentran 3 codigos que ejemplifican maneras distintas de pasar imagenes de color a blanco y negro 
